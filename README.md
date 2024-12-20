@@ -63,6 +63,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-user-profile](modules/user-profile)
 - [react-native-privacy-policy-webview](modules/privacy-policy-webview)
 - [django-contact-us](backend/modules)
+- [django-disqus](backend/modules)
 
 # Getting started: Frontend
 
